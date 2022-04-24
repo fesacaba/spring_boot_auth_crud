@@ -1,0 +1,15 @@
+/home/felipe/projetos/spring_boot_auth_crud/src/main/java/br/com/auth/usecase/ExpertUseCase.java
+/home/felipe/projetos/spring_boot_auth_crud/src/main/java/br/com/auth/config/swagger/SwaggerConfig.java
+/home/felipe/projetos/spring_boot_auth_crud/src/main/java/br/com/auth/http/domain/response/MakeResponse.java
+/home/felipe/projetos/spring_boot_auth_crud/src/main/java/br/com/auth/http/v1/MakeController.java
+/home/felipe/projetos/spring_boot_auth_crud/src/main/java/br/com/auth/http/v1/ExpertController.java
+/home/felipe/projetos/spring_boot_auth_crud/src/main/java/br/com/auth/usecase/MakeUseCase.java
+/home/felipe/projetos/spring_boot_auth_crud/src/main/java/br/com/auth/http/domain/request/MakeRequest.java
+/home/felipe/projetos/spring_boot_auth_crud/src/main/java/br/com/auth/http/domain/request/ExpertRequest.java
+/home/felipe/projetos/spring_boot_auth_crud/src/main/java/br/com/auth/http/domain/enums/TypeMakeLevel.java
+/home/felipe/projetos/spring_boot_auth_crud/src/main/java/br/com/auth/gateway/database/repository/ExpertRepository.java
+/home/felipe/projetos/spring_boot_auth_crud/src/main/java/br/com/auth/http/domain/response/ExpertResponse.java
+/home/felipe/projetos/spring_boot_auth_crud/src/main/java/br/com/auth/gateway/database/entity/Make.java
+/home/felipe/projetos/spring_boot_auth_crud/src/main/java/br/com/auth/gateway/database/entity/Expert.java
+/home/felipe/projetos/spring_boot_auth_crud/src/main/java/br/com/auth/AuthApplication.java
+/home/felipe/projetos/spring_boot_auth_crud/src/main/java/br/com/auth/gateway/database/repository/MakeRepository.java
